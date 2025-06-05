@@ -1,4 +1,4 @@
-# 🏨 OYO Hotel Booking Analysis & Revenue Dashboard
+# 🏨 OYO Hotel Booking Analysis
 
 This project analyzes hotel booking data from OYO to uncover trends in occupancy, cancellations, and pricing strategies. The insights drive revenue optimization and improved customer experience through dynamic dashboarding.
 
